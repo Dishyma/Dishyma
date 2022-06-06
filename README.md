@@ -1,5 +1,5 @@
 <h1 align="center">Hi World 👋, I'm Mateo Rojas</h1>
-- 🌱 I’m currently learning / Aprendiendo... **Spring, Flask, Adobe AF**
+- 🌱 I’m currently learning / Aprendiendo... **Node JS**
 <br>
 - 🤝 I’m looking for help with **with my Projects and repos**
 <br>
