@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi World 👋, I'm Mateo Rojas</h1>
+- 🌱 I’m currently learning / Aprendiendo... **Spring, Flask, Adobe AF**
+<br>
+- 🤝 I’m looking for help with **with my Projects and repos**
+<br>
+- 💬 Ask me about/ Preguntame Acerca de **Java & programming**
+<br>
+- 📫 How to reach me/ Contactame **marojas4126@gmail.com**
+<br>
+<h3>Lo que me gusta/ what I like 	:v: </h3>
+- :computer: Programacion / programming (Java, Python, Javascript)
+<br>
+- :closed_book: Leer / book about self-improvement and ttechnology
 
-<!--
-**Dishyma/Dishyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
