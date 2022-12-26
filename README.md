@@ -1,5 +1,5 @@
 <h1 align="center">Hi World 👋, I'm Mateo Rojas</h1>
-- 🌱 I’m currently learning / Aprendiendo... **Python, Java, NodeJs**
+- 🌱 I’m currently learning / Aprendiendo... **Python, Java, Flask**
 <br>
 - 🤝 I’m looking for help with **with my Projects and repos**
 <br>
